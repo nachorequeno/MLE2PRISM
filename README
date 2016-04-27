@@ -3,7 +3,7 @@
 """"""""""""""""""""""""""""""
 
 The MLE2PRISM is a set of freely available Perl scripts for computing
-maximum likelihood stimations in PRISM.
+maximum likelihood estimations in PRISM.
 
 This MLE2PRISM package is open source software made available under the GNU
 General Public License terms. Please see the LICENSE file for further details.
